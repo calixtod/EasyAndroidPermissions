@@ -105,3 +105,7 @@ For questions or feedback, feel free to reach out:
 - **Issues**: Please use the GitHub Issues tab in the repository for any technical questions or to report bugs.
 
 Thank you for choosing EasyAndroidPermissions for your Android development needs!
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/easyandroidpermissions)
